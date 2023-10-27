@@ -1,5 +1,5 @@
-# Nvidia DLI -Technical Workshop for Fundamentals of Accelerated Data Science with RAPIDS
-
+# Nvidia DLI -Technical Workshop for Fundamentals of Accelerated Data Science with RAPIDS - COMPLETED.
+## [Certificate Of Competency - Successfully Completed!]
 
 ## Instructor-Led Workshop's Fundamentals of Accelerated Data Science with RAPIDS
 
