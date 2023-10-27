@@ -1,4 +1,4 @@
-# [Nvidia DLI -Technical Workshop for Fundamentals of Accelerated Data Science with RAPIDS] (https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-accelerated-data-science/) - COMPLETED.
+# [Nvidia DLI -Technical Workshop for Fundamentals of Accelerated Data Science with RAPIDS](https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-accelerated-data-science/) - COMPLETED.
 ## [Certificate Of Competency - Successfully Completed!](https://learn.next.courses.nvidia.com/certificates/57ca45fb64524175b574af4fafa21e11)
 
 ## Instructor-Led Workshop's Fundamentals of Accelerated Data Science with RAPIDS
