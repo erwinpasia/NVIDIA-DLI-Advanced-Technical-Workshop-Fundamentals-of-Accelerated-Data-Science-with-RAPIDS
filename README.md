@@ -11,7 +11,7 @@
 ## Instructor-Led Workshop Outline:
 
 <p style="text-align:center">
-    <a href="https://learn.nvidia.com/en-us/training/instructor-led-workshops)" target="_blank">
+    <a href="https://learn.nvidia.com/en-us/training/instructor-led-workshops" target="_blank">
     <img src="images/Workshop_Outline_FADS_RAPIDS.png" alt="NVIDIA-DLI---Fundamentals-of-Accelerated-Data-Science-with-RAPIDS"  />
     </a>
 </p>
