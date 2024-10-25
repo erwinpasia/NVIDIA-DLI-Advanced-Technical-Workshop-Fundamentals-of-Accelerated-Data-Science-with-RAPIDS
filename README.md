@@ -19,7 +19,7 @@
 ## [Certificate Of Competency:](https://learn.nvidia.com/certificates?id=57ca45fb64524175b574af4fafa21e11)
 
 <p style="text-align:center">
-    <a href="https://courses.nvidia.com/certificates/ef77185931c546b481ba51840fdd8cfa/" target="_blank">
+    <a href="https://learn.nvidia.com/certificates?id=57ca45fb64524175b574af4fafa21e11" target="_blank">
     <img src="images/CC_FADS_RAPIDS.png" alt="NVIDIA-DLI---Fundamentals-of-Deep-Learning"  />
     </a>
 </p>
