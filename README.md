@@ -1,5 +1,9 @@
 # [NVIDIA DLI - Advanced Technical Workshop: Fundamentals of Accelerated Data Science with RAPIDS](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+C-DS-02+V2) - COMPLETED!
 
+# Fundamentals of Accelerated Data Science with RAPIDS
+
+This repository provides an overview of the **Fundamentals of Accelerated Data Science with RAPIDS** course, offered by NVIDIA's Deep Learning Institute (DLI). The course is designed to teach data scientists how to leverage GPU acceleration to significantly speed up their data science workflows using the RAPIDS open-source libraries.
+
 **Learning Objectives:**
 
 1. Implement GPU-accelerated data preparation and feature extraction using cuDF and Apache Arrow data frames.
@@ -7,10 +11,6 @@
 3. Execute GPU-accelerated graph analysis with cuGraph, achieving massive-scale analytics in small amounts of time.
 4. Rapidly achieve massive-scale graph analytics using cuGraph routines.
 5. Finally! Save UK by staving-off a Simulated Epidemic!
-
-# Fundamentals of Accelerated Data Science with RAPIDS
-
-This repository provides an overview of the **Fundamentals of Accelerated Data Science with RAPIDS** course, offered by NVIDIA's Deep Learning Institute (DLI). The course is designed to teach data scientists how to leverage GPU acceleration to significantly speed up their data science workflows using the RAPIDS open-source libraries.
 
 ## Overview of RAPIDS
 
