@@ -89,10 +89,10 @@ This course is ideal for intermediate Python users who are familiar with traditi
     </a>
 </p>
 
-## [Certificate Of Competency:](https://learn.nvidia.com/certificates?id=57ca45fb64524175b574af4fafa21e11)
+## [Certificate Of Competency:](https://learn.nvidia.com/certificates?id=ftn3wQNgTWGxt7SvvoEt_g)
 
 <p style="text-align:center">
-    <a href="https://learn.nvidia.com/certificates?id=57ca45fb64524175b574af4fafa21e11" target="_blank">
+    <a href="https://learn.nvidia.com/certificates?id=ftn3wQNgTWGxt7SvvoEt_g" target="_blank">
     <img src="images/CC_FADS_RAPIDS.png" alt="NVIDIA-DLI---Fundamentals-of-Deep-Learning"  />
     </a>
 </p>
